@@ -52,8 +52,6 @@ This repository is dedicated to exploring and understanding Agentic AI – intel
 ## 🎯 Goal
 By the end of this journey, this repository will serve as a comprehensive guide to understanding, building, and researching Agentic AI – from basic concepts to enterprise-scale orchestration.
 
-
-
 ## 🚀 How to Use This Repository
 This repository is designed to be followed in a step-by-step learning path. Each section builds upon the previous one, gradually moving from fundamentals to advanced concepts and real-world applications.
 
@@ -65,3 +63,15 @@ This repository is designed to be followed in a step-by-step learning path. Each
 - 5️⃣ Explore Business Orchestration: Apply agents to real-world enterprise workflows and automation.
 - 6️⃣ Research and Experiment: Stay updated with cutting-edge research and contribute experimental ideas.
 
+## Clear Roadmap:
+Foundations of AI
+      ↓
+Introduction to Agents
+      ↓
+Agentic AI Architectures & Frameworks
+      ↓
+Practical Agent Implementations
+      ↓
+Business Orchestration with Agentic AI
+      ↓
+Research & Exploration
