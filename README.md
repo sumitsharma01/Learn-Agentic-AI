@@ -29,25 +29,25 @@ This repository is dedicated to exploring and understanding Agentic AI – intel
 
 - Technical deep-dives into modern agent frameworks.
 
-Research papers and architectural patterns.
+- Research papers and architectural patterns.
 
 ### 4️⃣ Practical Agent Implementations
 
-Hands-on projects building agents from scratch.
+- Hands-on projects building agents from scratch.
 
-Progressively increasing complexity with real-world scenarios.
+- Progressively increasing complexity with real-world scenarios.
 
 ### 5️⃣ Business Orchestration with Agentic AI
 
-Applying agents to automate and optimize business workflows.
+- Applying agents to automate and optimize business workflows.
 
-Integration with enterprise systems and use cases.
+- Integration with enterprise systems and use cases.
 
 ### 6️⃣ Research & Exploration
 
-Cutting-edge research topics in Agentic AI.
+- Cutting-edge research topics in Agentic AI.
 
-Experimental implementations and findings.
+- Experimental implementations and findings.
 
 ## 🎯 Goal
 By the end of this journey, this repository will serve as a comprehensive guide to understanding, building, and researching Agentic AI – from basic concepts to enterprise-scale orchestration.
