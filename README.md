@@ -12,6 +12,7 @@ This repository is dedicated to exploring and understanding Agentic AI – intel
 - Hands-on Development: Build agents step-by-step, moving from basic AI agents to advanced business orchestration scenarios.
   
 ## 📂 Repository Structure
+
 ### 1️⃣ Foundations of AI
 
 - Basic AI concepts and terminology.
