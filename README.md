@@ -77,13 +77,8 @@ Business Orchestration with Agentic AI
 Research & Exploration
 
 📌 Phase 1: Learn the basics with simple, relevant examples.
-
 📌 Phase 2: Understand autonomy and agent behavior.
-
 📌 Phase 3: Dive into frameworks, algorithms, and architectures.
-
 📌 Phase 4: Build and deploy hands-on agentic projects.
-
 📌 Phase 5: Apply knowledge to business automation and orchestration.
-
 📌 Phase 6: Explore cutting-edge research and experimental ideas.
