@@ -1,6 +1,5 @@
 # Agentic AI Learning Repository
 Welcome to the Agentic AI Learning Repository! 🚀
-
 This repository is dedicated to exploring and understanding Agentic AI – intelligent systems capable of autonomous decision-making, reasoning, and orchestrating complex tasks. Agentic AI represents the next evolution of artificial intelligence, enabling autonomous agents, adaptive workflows, and business process orchestration.
 
 ## 📌 What this repository offers:
